@@ -16,12 +16,12 @@ There's not a lot of time actually working in this but there are two places that
 * 4 to 4-1/2 cups all-purpose flour
 * 16 slices of Bacon. As amazing as pepper crusted bacon is, wrong choice for this. A thick hickory smoke or apple wood bacon is what I usually use. 
 
-## Filling:
+## Filling
 * 1/4-1/3 cup butter, melted
 * 3/4-1 cup packed brown sugar
 * 2 tablespoons ground cinnamon
 
-## Cream cheese frosting:
+## Cream cheese frosting
 * 1/2 cup butter, softened
 * 1 (8-oz.) package cream cheese, softened
 * 1 (16-oz.) package powdered sugar
