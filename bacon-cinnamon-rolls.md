@@ -21,7 +21,7 @@ There's not a lot of time actually working in this but there are two places that
 * 3/4-1 cup packed brown sugar
 * 2 tablespoons ground cinnamon
 
-## Cream chees frosting:
+## Cream cheese frosting:
 * 1/2 cup butter, softened
 * 1 (8-oz.) package cream cheese, softened
 * 1 (16-oz.) package powdered sugar
