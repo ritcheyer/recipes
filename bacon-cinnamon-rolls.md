@@ -1,3 +1,9 @@
+# Attribution
+* *Author:* @joshholmes
+* *Date Added:* 2015-12-22
+* *Title:* Bacon Cinnamon Rolls
+
+# Description
 There's not a lot of time actually working in this but there are two places that you need to let it rise which will take about an hour each time so plan that time in there. One thing you can do is start the night before and get it to the pan but stick the pan in the fridge overnight, pull them out and let them get to room temperature (about 30 minutes) and then cook them. That'll cut your morning time to roughly an hour before you eat.
 
 # Ingredients
