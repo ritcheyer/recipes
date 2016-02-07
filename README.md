@@ -3,28 +3,28 @@
 Recipes I've collected over time that sound amazing and want to make/cook/bake.
 
 
-# Meal Type
+## Meal Type
 
-## Breakfast
+### Breakfast
 * [Bacon Cinnamon Rolls](bacon-cinnamon-rolls.md)
 
-## Lunch
+### Lunch
 
-## Dinner
+### Dinner
 
-## Snack
+### Snack
 
-# By Taste
+## By Taste
 This is just a guess.. If you think there is something incorrect, please PR me!
 
-## Sweetness
+### Sweetness
 * [Bacon Cinnamon Rolls](bacon-cinnamon-rolls.md)
 
-## Sourness
+### Sourness
 
-## Bitterness
+### Bitterness
 
-## Saltiness
+### Saltiness
 * [Bacon Cinnamon Rolls](bacon-cinnamon-rolls.md)
 
-## Umami
+### Umami
