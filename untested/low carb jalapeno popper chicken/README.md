@@ -9,16 +9,16 @@
 
 ### For the Jalapeno Popper Layer
 * `5` slices of bacon, diced
-* `¼` cup jalapeno slices, diced (the kind in the jar that you put on nachos)
-* `¼` cup diced onion
+* `1/4 cup` jalapeno slices, diced (the kind in the jar that you put on nachos)
+* `1/4 cup` diced onion
 * `1 (8 oz)` package cream cheese, softened
-* `½` cup mayonnaise
-* `1` cup shredded cheddar cheese
-* `½` cup Kraft grated Parmesan
+* `1/2 cup` mayonnaise
+* `1 cup` shredded cheddar cheese
+* `1/2 cup` Kraft grated Parmesan
 
 ### For the Topping
-* `1` bag of crushed Pork Skins
-* `½` cup Kraft grated Parmesan Cheese
+* `1 bag` of crushed Pork Skins
+* `1/2 cup` Kraft grated Parmesan Cheese
 * `4 TBSP` butter, melted
 
 ### Directions
