@@ -2,7 +2,6 @@
 
 [Original Post](http://www.auntbeesrecipes.com/2014/01/low-carb-jalapeno-popper-chicken.html)
 
-
 ## Ingredients
 * 6 Boneless, Skinless Chicken Breast
 (salt and pepper to taste)
