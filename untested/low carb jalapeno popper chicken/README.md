@@ -33,5 +33,6 @@
 * For the topping, mix together the crushed pork skins, Parmesan cheese and melted butter. Sprinkle on top of jalapeno popper topped chicken.
 * Bake until the tops are lightly browned, about `15 minutes`.
 
+## Pictures
 ![Jalapeno Popper Chicken](jalapeno-popper-chicken-1.jpg)
 
