@@ -1,6 +1,5 @@
 # Low Carb Jalapeno Popper Chicken
-
-[Original Post](http://www.auntbeesrecipes.com/2014/01/low-carb-jalapeno-popper-chicken.html)
+[![Jalapeno Popper Chicken](jalapeno-popper-chicken-1.jpg)](http://www.auntbeesrecipes.com/2014/01/low-carb-jalapeno-popper-chicken.html)
 
 ## Ingredients
 * 6 Boneless, Skinless Chicken Breast
@@ -32,7 +31,4 @@
 * Spread jalapeno popper mixture all over each Chicken breast until well covered.
 * For the topping, mix together the crushed pork skins, Parmesan cheese and melted butter. Sprinkle on top of jalapeno popper topped chicken.
 * Bake until the tops are lightly browned, about `15 minutes`.
-
-## Pictures
-![Jalapeno Popper Chicken](jalapeno-popper-chicken-1.jpg)
 

@@ -1,6 +1,6 @@
 # Chicken Avocado Soup with Lime and Cilantro
 
-[Original Post](http://mealime.com/healthy-recipes/chicken-avocado-soup-lime-cilantro/)
+[![Avocado Chicken Soup](Avocado-Chicken-Soup-with-Lime-Cilantro.jpg)](http://mealime.com/healthy-recipes/chicken-avocado-soup-lime-cilantro/)
 
 ## Ingredients
 
@@ -33,7 +33,3 @@
 11. Shred or dice the chicken and return to the saucepan. Stir in about ¾ of the cilantro (save the rest for garnishing) and lime juice.
 12. Cut the remaining ½ lime into wedges.
 13. Serve soup in a bowl, stir in the avocado, and garnish with the remaining cilantro and lime wedges. 
-
-
-## Pictures
-![Avocado Chicken Soup](Avocado-Chicken-Soup-with-Lime-Cilantro.jpg)
