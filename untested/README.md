@@ -7,7 +7,7 @@ A collection of recipes that look delicious and that I would like to try my hand
 ### Lunch
 ### Dinner
 * [Low Carb Jalapeno Popper Chicken](low carb jalapeno popper chicken/README.md)
-* [Avocado Chicken Soup with Lime & Cilantro](avocado chicken soup/README.md)
+* [Avocado Chicken Soup with Lime & Cilantro](chicken avocado soup/README.md)
 
 ### Snack
 
