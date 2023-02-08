@@ -1,4 +1,4 @@
-# Soda bread
+# Irish Soda bread
 
 ## Attribution
 
@@ -11,7 +11,7 @@
 
 [read more](https://en.wikipedia.org/wiki/Soda_bread) on Wikipedia
 
-![This is soda bread](soda-bread.jpeg)
+![This is soda bread](irish-soda-bread.jpeg)
 
 ## Ingredients
 
